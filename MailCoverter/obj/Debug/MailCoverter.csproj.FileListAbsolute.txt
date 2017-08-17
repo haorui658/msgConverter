@@ -1,0 +1,9 @@
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\bin\Debug\MailCoverter.exe
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\bin\Debug\MailCoverter.pdb
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\obj\Debug\MailCoverter.csprojResolveAssemblyReference.cache
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\obj\Debug\MailCoverter.Form1.resources
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\obj\Debug\MailCoverter.Properties.Resources.resources
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\obj\Debug\MailCoverter.csproj.GenerateResource.Cache
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\obj\Debug\MailCoverter.exe
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\obj\Debug\MailCoverter.pdb
+c:\users\cdhaorui\documents\visual studio 2013\Projects\MailCoverter\MailCoverter\bin\Debug\Aspose.Email.dll
